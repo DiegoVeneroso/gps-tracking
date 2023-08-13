@@ -1,7 +1,7 @@
 var gps = require("gps-tracking");
 
 var options = {
-    'debug'                 : true,
+    'debug'                 : false,
     'port'                  : 3000,
     'device_adapter'        : "GT06"
 }
